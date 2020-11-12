@@ -1,2 +1,3 @@
 # Project exclude paths
 /out/
+/data/sqlite-jdbc-3.25.2.jar
